@@ -1,0 +1,27 @@
+[[GRCore]]
+arch = "x86_64"
+git-tree-sha1 = "ce4854889e2a74bc8aeb66fe8af685a6b7a715e6"
+os = "macos"
+
+    [[GRCore.download]]
+    sha256 = "c66cb856e6da2d0a203607444bc55941d112084f0f2570f2e20cfbd0125ca634"
+    url = "https://github.com/barche/GRCore_jll.jl/releases/download/GRCore-v0.72.4+1/GRCore.v0.72.4.x86_64-apple-darwin.tar.gz"
+[[GRCore]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a979ef55e4b188d3abb8bf0961146b0297a36d8e"
+libc = "glibc"
+os = "linux"
+
+    [[GRCore.download]]
+    sha256 = "95827e6126a69195f1b41a1fb11d44eec1d89f0dd61d53aa5024b9cc25245438"
+    url = "https://github.com/barche/GRCore_jll.jl/releases/download/GRCore-v0.72.4+1/GRCore.v0.72.4.x86_64-linux-gnu-cxx11.tar.gz"
+[[GRCore]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "64463d90589bb873824e4d88c8c473ebea8065f2"
+os = "windows"
+
+    [[GRCore.download]]
+    sha256 = "9065ffa043c85791cfa68524abc74a1e2d47c6b07e3945e51b368a5792faa834"
+    url = "https://github.com/barche/GRCore_jll.jl/releases/download/GRCore-v0.72.4+1/GRCore.v0.72.4.x86_64-w64-mingw32-cxx11.tar.gz"
